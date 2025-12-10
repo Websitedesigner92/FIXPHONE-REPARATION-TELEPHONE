@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://websitedesigner92.github.io/FIXPHONE-REPARATION-TELEPHONE/sitemap.xml
